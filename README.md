@@ -40,7 +40,7 @@
       Cubrid
     </td>
     <td align=center>
-      Gateway
+      ✨Gateway
     </td>
     <td align=center>
       GlusterFS

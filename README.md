@@ -62,7 +62,7 @@
       Pipeline
     </td>
     <td align=center>
-      RabbitMQ
+      <img src="https://paas-ta.kr/resources/img/favicon.ico" width="15"> RabbitMQ
     </td>
     <td align=center>
       Redis

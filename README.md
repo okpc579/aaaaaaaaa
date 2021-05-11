@@ -48,7 +48,7 @@
       Logging
     </td>
     <td align=center>
-      <img src="https://github.com/okpc579/aaaaaaaaa/blob/master/favicon.png?raw=true" width="15"> MongoDB
+      <img src="https://github.com/okpc579/aaaaaaaaa/blob/master/favicon.png?raw=true" width="20"> MongoDB
     </td>
     <td align=center>
       MySQL

@@ -1,10 +1,11 @@
+<span style="color:red">red</span>
 <table>
   <tr>
     <td align=center>
       플랫폼
     </td>
     <td colspan=2 align=center>
-      <div style="color:red">어플리케이션 플랫폼</div>
+      <div style="color:#d3d3d3">어플리케이션 플랫폼</div>
     </td>
     <td colspan=2 align=center>
       컨테이너 플랫폼

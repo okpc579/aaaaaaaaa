@@ -3,8 +3,8 @@
     <td align=center>
       플랫폼
     </td>
-    <td colspan=2 align=center style="background-color: #bbdefb;">
-      어플리케이션 플랫폼
+    <td colspan=2 align=center>
+      <span style="color:red"> 어플리케이션 플랫폼</span>
     </td>
     <td colspan=2 align=center>
       컨테이너 플랫폼

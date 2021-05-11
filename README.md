@@ -3,7 +3,7 @@
     <td align=center>
       플랫폼
     </td>
-    <td colspan=2 align=center bgcolor="#ffeecc">
+    <td colspan=2 align=center style="background-color: #bbdefb;">
       어플리케이션 플랫폼
     </td>
     <td colspan=2 align=center>

@@ -35,19 +35,86 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <table>
   <tr>
-    <td>
+    <td align=center>
       플랫폼
     </td>
-    <td colspan=2>
+    <td colspan=2 align=center>
       어플리케이션 플랫폼
     </td>
-    <td colspan=2>
+    <td colspan=2 align=center>
       컨테이너 플랫폼
+    </td>
+  </tr>
+  <tr>
+    <td align=center>
+      포털
+    </td>
+    <td colspan=2 align=center>
+      AP 포털
+    </td>
+    <td colspan=2 align=center>
+      CP 포털
     </td>
   </tr>
   <tr>
     <td colspan=5 align=center>
       모니터링
+    </td>
+  </tr>
+  <tr>
+    <td rowspan=4>
+      서비스
+    </td>
+    <td align=center>
+      Cubrid
+    </td>
+    <td align=center>
+      Gateway
+    </td>
+    <td align=center>
+      GlusterFS
+    </td>
+    <td align=center>
+      Lifecycle
+    </td>
+  </tr>
+  <tr>
+    <td align=center>
+      Logging
+    </td>
+    <td align=center>
+      MongoDB
+    </td>
+    <td align=center>
+      MySQL
+    </td>
+    <td align=center>
+      Pinpoint APM
+    </td>
+  </tr>
+  <tr>
+    <td align=center>
+      Pipeline
+    </td>
+    <td align=center>
+      RabbitMQ
+    </td>
+    <td align=center>
+      Redis
+    </td>
+    <td align=center>
+      형상관리
+    </td>
+  </tr>
+  <tr>
+    <td align=center>
+      WEB-IDE
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
     </td>
   </tr>
 </table>

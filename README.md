@@ -39,7 +39,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       플랫폼
     </td>
     <td colspan=2 align=center>
-      어플리케이션 플랫폼
+      <b>어플리케이션 플랫폼</b>
     </td>
     <td colspan=2 align=center>
       컨테이너 플랫폼
